@@ -3,7 +3,7 @@ class Hello
 {
 	public static function main(array $args)
 	{
-		echo "branch";
+		echo "branch2";
 	}
 }
 ?>
