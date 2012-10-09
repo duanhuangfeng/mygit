@@ -6,6 +6,7 @@ class Hello
 		echo "AC2";
 		echo "Master2";
 		echo "Master 3";
+		echo "Branch 4";
 	}
 }
 ?>
