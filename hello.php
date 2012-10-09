@@ -5,6 +5,7 @@ class Hello
 	{
 		echo "AC2";
 		echo "Master2";
+		echo "A";
 	}
 }
 ?>
